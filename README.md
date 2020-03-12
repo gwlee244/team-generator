@@ -41,5 +41,5 @@ The test.js files were provided.
 
 ## Acknowledgments
 
-* The instructor, TAs, and classmates at the Coding Bootcamp at the University of Texas at Austin
-* Friends in the software industry (Bill, thank you for your timely and tremendous help)
+* The instructor, TAs, and classmates at the Coding Bootcamp at UNC
+* Friends in the software industry (Bill, thank you for answering my questions!)
