@@ -43,3 +43,5 @@ The test.js files were provided.
 
 * The instructor, TAs, and classmates at the Coding Bootcamp at UNC
 * Friends in the software industry (Bill, thank you for answering my questions!)
+
+![picture](team-profile-generator.png)
